@@ -33,5 +33,5 @@ Add it to a local manifest; the repo root *is* the policy tree, so it maps direc
 ## Provenance
 
 Recovered while porting the Nextbit Robin (`ether`, msm8992) past LineageOS 18.1 — see
-[ether-robin-lineage](https://github.com/TheDBP/ether-robin-lineage). Content is unmodified from the
+[ether-lineage](https://github.com/TheDBP/ether-lineage). Content is unmodified from the
 recovered upstream.
